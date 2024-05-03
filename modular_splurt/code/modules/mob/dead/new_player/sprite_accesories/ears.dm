@@ -139,3 +139,73 @@
 	icon_state = "renamon"
 	matrixed_sections = MATRIX_ALL
 	icon = 'modular_splurt/icons/mob/mam_ears.dmi'
+
+/datum/sprite_accessory/ears/human/pichu
+	name = "Pichu"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pichu"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/pichu
+	name = "Pichu"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pichu"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/human/pikachu
+	name = "Pikachu"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pika"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/pikachu
+	name = "Pikachu"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pika"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/human/bunnypokemon
+	name = "Bunny (Pokemon) (Short)"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pokebunny"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/bunnypokemon
+	name = "Bunny (Pokemon) (Short)"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "pokebunny"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/human/lopunny
+	name = "Lopunny (big)"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "lopunny"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/lopunny
+	name = "Lopunny (big)"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "lopunny"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/human/spinda
+	name = "Spinda"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "spinda"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/ears/mam_ears/spinda
+	name = "Spinda"
+	icon = 'modular_splurt/icons/mob/32x64_poke_ears.dmi'
+	icon_state = "spinda"
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
