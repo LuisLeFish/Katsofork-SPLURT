@@ -472,3 +472,38 @@
 	icon_state = "spade"
 	icon = 'modular_splurt/icons/mob/mam_tails.dmi'
 	matrixed_sections = MATRIX_RED
+
+/datum/sprite_accessory/tails/human/Pichu
+	name = "Pichu"
+	icon_state = "pichu"
+	icon = 'modular_splurt/icons/mob/x64_poke_tails.dmi'
+	dimension_x = 64
+	center = TRUE
+	matrixed_sections = MATRIX_RED
+
+/datum/sprite_accessory/tails_animated/human/Pichu
+	name = "Pichu"
+	icon_state = "pichu"
+	icon = 'modular_splurt/icons/mob/x64_poke_tails.dmi'
+	dimension_x = 64
+	center = TRUE
+	matrixed_sections = MATRIX_RED
+
+/datum/sprite_accessory/tails/human/Pikachu
+	name = "Pikachu (Male)"
+	icon_state = "pikachumale"
+	icon = 'modular_splurt/icons/mob/x64_poke_tails.dmi'
+	dimension_x = 64
+	center = TRUE
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/tails_animated/human/Pikachu
+	name = "Pikachu (Male)"
+	icon_state = "pikachumale"
+	icon = 'modular_splurt/icons/mob/x64_poke_tails.dmi'
+	dimension_x = 64
+	center = TRUE
+	color_src = MATRIXED
+	matrixed_sections = MATRIX_RED_GREEN
+
